@@ -5,7 +5,6 @@ $White2: #F2F7FF;
 $Blue: #004AAD;
 $Gray: #CACACA;
 
-
 .button1{
     height: 64px;
     width: 230px;
@@ -13,6 +12,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $DarkBlue;
     background-color: $Orange;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button2{
@@ -22,6 +24,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $DarkBlue;
     background-color: $White2;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button3{
@@ -31,6 +36,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $Blue;
     background-color: $White2;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button4{
@@ -40,6 +48,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $White2;
     background-color: $DarkBlue;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button5{
@@ -49,6 +60,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $White2;
     background-color: $Gray;
+    display: block;
+    border: none;
+    outline: none;
 }
 .button6{
     height: 64px;
@@ -57,6 +71,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $White2;
     background-color: $Blue;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button6{
@@ -67,6 +84,9 @@ $Gray: #CACACA;
     font-weight: bold;
     color: $White;
     background-color: $Orange;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button7{
@@ -77,6 +97,9 @@ $Gray: #CACACA;
     font-weight: bold;
     color: $White;
     background-color: $Gray;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button8{
@@ -87,6 +110,9 @@ $Gray: #CACACA;
     font-weight: bold;
     color: $White;
     background-color: $Orange;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button9{
@@ -97,6 +123,9 @@ $Gray: #CACACA;
     font-weight: bold;
     color: $White;
     background-color: $Orange;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button10{
@@ -106,6 +135,9 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $White2;
     background-color: $Orange;
+    display: block;
+    border: none;
+    outline: none;
 }
 
 .button11{
@@ -115,4 +147,7 @@ $Gray: #CACACA;
     font-size: 22px;
     color: $White2;
     background-color: $Gray;
+    display: block;
+    border: none;
+    outline: none;
 }

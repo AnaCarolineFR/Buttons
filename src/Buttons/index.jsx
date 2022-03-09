@@ -5,7 +5,8 @@ import { Button } from 'antd';
 export function Buttons(){
    return(
   <>
-    <Button type="primary" className="button1">Poppins</Button>
+    <Button type="p
+    rimary" className="button1">Poppins</Button>
     <br/>
     <Button type="primary" className="button2">Poppins</Button>
     <br />
